@@ -3,63 +3,84 @@
 🤖 **AI-Focused Software Developer**  
 🔐 **Cybersecurity Learner**  
 🚀 **Aspiring SaaS Founder**  
-🌐 **Android • Web • Cross-Platform Developer**
+📱 **Flutter | Android | Web | Cross-Platform Developer**
 
-I am actively working toward a **developer role** with a strong focus on **AI-driven and security-aware applications**.  
-Alongside my job goals, I am building real-world projects and exploring **SaaS product ideas** that solve practical problems.
-
----
-
-### 💡 What I Work On
-🧠 AI-powered applications  
-📱 Android, Web & cross-platform development  
-🛡 Secure coding & security-first design  
-🧩 Real-world problem solving through projects  
-📝 Clean, maintainable & well-documented code  
+I am actively preparing for a **developer job** while building **real-world applications** and learning how **AI and cybersecurity** can be combined to create secure, scalable products.  
+Alongside my career goals, I am working on **SaaS product ideas** and long-term technical growth.
 
 ---
 
-### 🔐 Cybersecurity Focus Areas
-🛑 Secure application architecture  
-🔎 OWASP Top 10 awareness & mitigation  
-🔑 Authentication & authorization concepts  
-🔒 Data protection (hashing, encryption fundamentals)  
+## 📱 Apps Developed (Flutter Projects)
+
+🚀 I have built multiple **cross-platform mobile applications** using Flutter, focusing on usability, performance, and clean architecture.
+
+- 📲 **BigButton** – Simple utility app focused on accessibility and ease of use  
+- 💊 **Reminder Medicin** – Medicine reminder app for daily health management  
+- 👥 **FairSplit** – Expense-splitting app for groups  
+- 🌍 **Universal Translator** – Language translation app  
+- 🖼 **Image to PDF** – Convert images into PDF documents  
+- ✅ **OneDoToday** – Daily task & productivity app  
+- 🔳 **QR Code Generator** – Generate and manage QR codes  
+- 🕌 **Salat Reminder** – Prayer time reminder app  
+- 🔁 **Universal Converter** – Unit & value conversion app  
+
+📌 *These projects are actively maintained and will be improved over time.*
+
+---
+
+## 💡 What I Build
+🧠 AI-powered and automation-focused applications  
+📱 Mobile apps (Flutter, Android)  
+🌐 Web & cross-platform solutions  
+🛡 Security-aware software with best practices  
+🧩 Practical tools that solve real problems  
+
+---
+
+## 🔐 Cybersecurity Focus
+🛡 Secure application design & coding practices  
+🔎 OWASP Top 10 awareness (input validation, auth issues, data exposure)  
+🔑 Authentication & authorization fundamentals  
+🔒 Data protection (hashing, encryption concepts)  
 🤖 AI-assisted threat detection & anomaly analysis  
-☁️ Security considerations for **SaaS & cloud systems**
+☁️ Security considerations for **SaaS & cloud-based systems**
 
 ---
 
-### 🚀 Current Focus
-📘 Strengthening fundamentals in **AI, backend & cybersecurity**  
-🛠 Building projects that reflect **industry workflows**  
-⚙️ Exploring AI for **security automation & monitoring**  
-🧪 Prototyping **secure SaaS applications**
+## 🛠 Tools & Technologies
+- 🧑‍💻 **Flutter / Dart**
+- ☕ **Java**
+- 🌐 **HTML, CSS, JavaScript**
+- 🗄 **Firebase / Backend basics**
+- 🔧 **Git & GitHub**
+- ☁️ **Cloud & SaaS fundamentals**
+- 🔐 **Security-first development concepts**
 
 ---
 
-### 🎯 Career & Business Goals
-💼 Secure a **developer job or internship**  
-🧠 Grow into an **AI & cybersecurity-oriented engineer**  
-🏗 Build and launch a **security-aware SaaS product**  
-🤝 Collaborate with engineers & security-focused teams  
+## 📚 Learning, Books & Research
+📖 Studying AI, cybersecurity, and system design fundamentals  
+🧪 Exploring AI applications in security & automation  
+📘 Learning from documentation, books, and research papers  
+📝 Experimenting, documenting, and refining ideas through projects  
 
 ---
 
-### 🛠 Technical Interests
-🤖 Artificial Intelligence & Applied ML  
-🔐 Cybersecurity & Secure Systems  
-🌐 App, Web & Cross-Platform Development  
-☁️ SaaS Architecture, APIs & Cloud Security  
+## 🎯 Career & Business Goals
+💼 Get a **developer job or internship**  
+🧠 Grow as an **AI & cybersecurity-focused engineer**  
+🚀 Build and launch a **SaaS business**  
+🤝 Collaborate on meaningful and impactful projects  
 
 ---
 
-### 📌 How I Use GitHub
-📂 Share **real, evolving projects**  
+## 📌 How I Use GitHub
+📂 Share real, evolving projects  
 🟢 Track progress with meaningful commits  
-📖 Document learning, experiments & improvements  
-🎯 Build a transparent portfolio for employers  
+📖 Document learning & experimentation  
+🎯 Build a transparent portfolio for recruiters  
 
 ---
 
 📫 **Email:** rasedul.23ubc166@mariqncollege.org  
-💼 **Open to jobs, internships & cybersecurity-focused collaborations**
+💼 **Open to jobs, internships & collaborations**
